@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Kyle's Page"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kyle Shehata Oliveira"
+description              : &description "Hi there! I am a second year Marine Biology PhD student at the University of Maine and based at Bigelow Laboratory for Ocean Sciences. My work revolves around using environmental DNA (skin cells, fecal matter, mucus, and other genetic material shed into the enviroment) to detect white sharks in the Gulf of Maine. Using these detections, along with others, I hope to develop models and forecasts that can help us predict where white sharks prefer to be in the Gulf of Maine."
+url                      : https://kolive4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
