@@ -2,6 +2,12 @@
 permalink: /
 title: "About Kyle"
 excerpt: "About me"
+header: 
+  overlay image: IMG_2702 2.JPG
+  overlay_filter: 0.2
+  caption: white shark
+  height: 500px
+  width: 1200px
 author_profile: true
 redirect_from: 
   - /about/
