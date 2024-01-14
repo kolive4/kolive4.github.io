@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kyle's Page"
 title_separator          : "-"
 name                     : &name "Kyle Shehata Oliveira"
-description              : &description "Hi there! I am a second year Marine Biology PhD student at the University of Maine and based at Bigelow Laboratory for Ocean Sciences. My work revolves around using environmental DNA (skin cells, fecal matter, mucus, and other genetic material shed into the enviroment) to detect white sharks in the Gulf of Maine. Using these detections, along with others, I hope to develop models and forecasts that can help us predict where white sharks prefer to be in the Gulf of Maine."
+description              : &description "Hi there! I am a fourth year Marine Biology PhD candidate at the University of Maine and based at Bigelow Laboratory for Ocean Sciences. My work lays the groundwork for using environmental DNA (skin cells, fecal matter, mucus, and other genetic material shed into the enviroment) as a detection method for white sharks in the Gulf of Maine. Using these detections, along with other occurrence points, I hope to develop presence-only models and forecasts that can help us infer where preferred white shark habitat may be under future climate scenarios in the Gulf of Maine."
 url                      : https://kolive4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -85,10 +85,10 @@ author:
   bio              : "Marine Biology PhD Student"
   location         : "Maine"
   employer         : "University of Maine | BLOS"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "kolive4"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/kyle-oliveira-95b466296/"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "kyle_oliveira4"
   vine             :
   weibo            :
   xing             :
