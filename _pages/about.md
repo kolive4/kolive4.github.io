@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a second year Marine Biology PhD student at the University of Maine and based at Bigelow Laboratory for Ocean Sciences. My work revolves around using environmental DNA (skin cells, fecal matter, mucus, and other genetic material shed into the enviroment) to detect white sharks in the Gulf of Maine. Using these detections, along with others, I hope to develop models and forecasts that can help us predict where white sharks prefer to be in the Gulf of Maine.
+Hi there! I am a fourth year Marine Biology PhD student at the University of Maine based at Bigelow Laboratory for Ocean Sciences. My work revolves around using environmental DNA (skin cells, fecal matter, mucus, and other genetic material shed into the enviroment) to detect white sharks in the Gulf of Maine. Using these detections, along with others, I hope to develop models and forecasts that can help us predict where white sharks prefer to be in the Gulf of Maine.
 
 A data-driven personal website
 ======
